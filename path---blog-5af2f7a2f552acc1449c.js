@@ -1,0 +1,2 @@
+webpackJsonp([49683490770531],{505:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Hakki Akburak"}},allMarkdownRemark:{edges:[{node:{frontmatter:{path:"/hi",title:"Hi!"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---blog-5af2f7a2f552acc1449c.js.map
